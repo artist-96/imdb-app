@@ -16,7 +16,7 @@ function App() {
 
         <Routes>
 
-          <Route path='/home' element={
+          <Route path='/' element={
             <>
               <Banner />
               <Movies />
